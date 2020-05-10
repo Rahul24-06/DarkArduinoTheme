@@ -51,4 +51,16 @@ Restart the Arduino IDE and it will run dark theme.
 **Credits: https://github.com/jeffThompson/DarkArduinoTheme**
 
 
+*If you faced any issues in building this project, feel free to ask me. Please do suggest new projects that you want me to do next.*
 
+*Share this video if you like.*
+
+*Blog - https://rahulthelonelyprogrammer.blogspot.in/*
+
+*Github - https://github.com/Rahul24-06*
+
+*Instagram - https://www.instagram.com/the_lonely_programmer/*
+
+*Happy to have you subscribed: https://www.youtube.com/c/rahulkhanna24june?sub_confirmation=1*
+
+**Thanks for reading!**
